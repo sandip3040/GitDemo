@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="28143" started-at="2020-04-25T12:18:44 IST" finished-at="2020-04-25T12:19:13 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="28143" started-at="2020-04-25T12:18:44 IST" finished-at="2020-04-25T12:19:13 IST">
+      <class name="FBTestCases.TC_LoginFlow">
+        <test-method status="PASS" signature="Login()[pri:0, instance:FBTestCases.TC_LoginFlow@19627bc]" name="Login" duration-ms="27950" started-at="2020-04-25T12:18:45 IST" finished-at="2020-04-25T12:19:13 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Login -->
+      </class> <!-- FBTestCases.TC_LoginFlow -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
